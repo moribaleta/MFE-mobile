@@ -9,6 +9,6 @@
   "author": "moribaleta",
   "license": "ISC",
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@moribaleta:registry": "https://npm.pkg.github.com"
   }
 }
