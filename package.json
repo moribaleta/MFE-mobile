@@ -1,0 +1,14 @@
+{
+  "name": "mfe-mobile",
+  "version": "1.0.0",
+  "description": "rn-mfe component repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "moribaleta",
+  "license": "ISC",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
+}
